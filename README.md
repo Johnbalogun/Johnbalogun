@@ -1,4 +1,4 @@
-<h1>Hi, I'm John! <br/><a href="https://github.com/johnbalogun"></a> <a href="https://www.linkedin.com/in/johnbalogun/">Cyber/information security Professional</a>
+<h1>Hi, I'm John! <br/><a href="https://github.com/johnbalogun"></a> <a href="https://www.linkedin.com/in/johnbalogun/">Cyber/Information security Professional</a>
 
 <h2>👨‍💻 Cyber Security/Cloud Projects:</h2>
 
