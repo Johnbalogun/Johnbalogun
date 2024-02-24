@@ -13,6 +13,7 @@
 <h2>📃Certifications</h2>
 • Microsoft Cybersecurity Analyst. (https://coursera.org/share/a3a15f64de3227c90cd80e593ac73cee)
 
+
 • Certified Google Cyber Security Specialist. (https://www.coursera.org/account/accomplishments/professional-cert/VWZJJZJDB8QN)
 
 •	Certified Qualys Guard Specialist (PCI-DSS compliance, VMDR, Patch Management, Scanning Strategies).
