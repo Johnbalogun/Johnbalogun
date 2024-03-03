@@ -6,10 +6,7 @@
   - [Established a secure Azure network configuration incorporating a dedicated VM for the OpenVas vulnerability management scanner.](https://github.com/johnbalogun/LABURL)
 - <b>Vulnerability Management Analyst | Home Lab</b>
   - [Installed and configured Nessus Essentials for Windows 10 Hosts credential vulnerability scans](https://github.com/Johnbalogun/Security-Analyst-Lab/tree/main)
-- <b>Security Analyst | Home Lab</b>
-  - [](https://github.com/johnbalogun/Laburl)
-  - 
-  <b> ANZ social Engineering investigation Project</b>
+  - <b> ANZ social Engineering investigation Project</b>
   - [](https://github.com/johnbalogun/Laburl)
 
 <h2>📃Certifications</h2>
