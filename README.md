@@ -8,7 +8,7 @@
   - [Installed and configured Nessus Essentials for Windows 10 Hosts credential vulnerability scans](https://github.com/Johnbalogun/Security-Analyst-Lab/tree/main)
     
 - <b>ANZ social Engineering investigation Project</b>
-  - [Was allocated a few emails to investigate Social engineering and phhishing attempts and submit my findings](https://github.com/Johnbalogun/Social-Engineering/blob/main/README.md))
+  - [Was allocated a few emails to investigate Social engineering and phhishing attempts and submit my findings](https://github.com/Johnbalogun/Social-Engineering/blob/main/README.md)
 
 <h2>📃Certifications</h2>
 • Microsoft Cybersecurity Analyst. (https://coursera.org/share/a3a15f64de3227c90cd80e593ac73cee)
