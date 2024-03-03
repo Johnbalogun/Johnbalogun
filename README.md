@@ -23,7 +23,7 @@
 •	BTEC- Security Manager Level 3
 
 
-<h2>📺 YouTube Videos</h2>
+<h2>📺 Videos</h2>
 
 - [](https://www.youtube.com/URL)
   
