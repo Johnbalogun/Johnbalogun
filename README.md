@@ -23,7 +23,7 @@
 
 •	BTEC- Security Manager Level 3
 
-[CLick to View Certifications]() 
+[CLick to View Certifications](https://github.com/Johnbalogun/Certifications) 
 
 <h2>📺 Videos</h2>
 
