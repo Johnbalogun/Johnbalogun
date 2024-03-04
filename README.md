@@ -7,7 +7,7 @@
 - <b>Vulnerability Management Analyst | Home Lab</b>
   - [Installed and configured Nessus Essentials for Windows 10 Hosts credential vulnerability scans](https://github.com/Johnbalogun/Security-Analyst-Lab/tree/main)
 - <b>MasterCard Employee CyberSecurity Awareness Project</b>
-  - [Created a phishing email awareness Campaigne as part of a Cybersecurity awareness project ](https://github.com/Johnbalogun/)
+  - [Created a phishing email awareness Campaigne as part of a Cybersecurity awareness project ](https://github.com/Johnbalogun/MasterCard-Awareness/blob/main/README.md))
     
 - <b>ANZ social Engineering investigation Project</b>
   - [Was allocated a few emails to investigate for Social engineering and phishing attempts and submit my findings](https://github.com/Johnbalogun/Social-Engineering/blob/main/README.md)
