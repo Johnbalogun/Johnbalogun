@@ -6,9 +6,11 @@
   - [Established a secure Azure network configuration incorporating a dedicated VM for the OpenVas vulnerability management scanner.](https://github.com/johnbalogun/LABURL)
 - <b>Vulnerability Management Analyst | Home Lab</b>
   - [Installed and configured Nessus Essentials for Windows 10 Hosts credential vulnerability scans](https://github.com/Johnbalogun/Security-Analyst-Lab/tree/main)
+- <b>MasterCard Employee CyberSecurity Awareness Project</b>
+  - [• Created a phishing email awareness Campaigne as part of a Cybersecurity awareness project ](https://github.com/Johnbalogun/)
     
 - <b>ANZ social Engineering investigation Project</b>
-  - [Was allocated a few emails to investigate for Social engineering and phhishing attempts and submit my findings](https://github.com/Johnbalogun/Social-Engineering/blob/main/README.md)
+  - [Was allocated a few emails to investigate for Social engineering and phishing attempts and submit my findings](https://github.com/Johnbalogun/Social-Engineering/blob/main/README.md)
 
 <h2>📃Certifications</h2>
 • Microsoft Cybersecurity Analyst. (https://coursera.org/share/a3a15f64de3227c90cd80e593ac73cee)
