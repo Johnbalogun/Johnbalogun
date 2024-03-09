@@ -12,7 +12,7 @@
 - <b>ANZ social Engineering investigation Project</b>
   - [Was allocated a few emails to investigate for Social engineering and phishing attempts and submit my findings](https://github.com/Johnbalogun/Social-Engineering/blob/main/README.md)
 - <b>ANZ Australia Cyber Security Management Job Simulation </b>
-  - [Completed a simulation focused on identifying cybersecurity threats at ANZ.](https://github.com/Johnbalogun/Social-Engineering/blob/main/README.md)
+  - [Completed a simulation focused on identifying cybersecurity threats at ANZ.](https://github.com/Johnbalogun/ANZ-cyber-management)
 
 <h2>📃Certifications</h2>
 • Microsoft Cybersecurity Analyst. (https://coursera.org/share/a3a15f64de3227c90cd80e593ac73cee)
