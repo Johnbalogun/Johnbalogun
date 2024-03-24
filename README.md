@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Cyber Security/Cloud Projects:</h2>
 
+- <b>Azure HoneyPot Siem Project | Home Lab</b>
+  - [I setup Azure Sentinel (SIEM) and connected it to a live virtual machine acting as a honey pot. Observing live attacks (RDP Brute Force) from all around the world](https://github.com/Johnbalogun/Azure-Honeypot-Siem-Project)
+
 - <b>Cyber security Vulnerability Management Project | Home Lab</b>
   - [Established a secure Azure network configuration incorporating a dedicated VM for the OpenVas vulnerability management scanner.](https://github.com/johnbalogun/LABURL)
 - <b>Vulnerability Management Analyst | Home Lab</b>
